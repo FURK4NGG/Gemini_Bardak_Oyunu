@@ -11,11 +11,11 @@
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
 2. `Install and open Arduino IDE`
-3. `Open the 'dektop_deck.ino'`
+3. `Open the 'gemini_bardak.ino'`
 4. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
 ```bash
-http://Digistump.com/package_digistump_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
 ```
 5. `Click 'OK'`  
 6. `Tools>Board>Boards Manager...`  
