@@ -36,8 +36,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 ## 🎉 Run  
-1. `Press the reset button on the esp8266`
-2. `Connect to the IP address shown on the ESP’s screen or serial monitor using a device that is connected to the same network as the ESP8266.` 
+1. `Press the reset button on the esp8266`  
 
 
 ## 🔒 License  
