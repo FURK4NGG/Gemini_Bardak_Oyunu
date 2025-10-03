@@ -36,7 +36,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 
 ## 🎉 Run  
-1. `Press the reset button on the esp8266`  
+`Press the reset button on the esp8266`  
 
 
 ## 🔒 License  
