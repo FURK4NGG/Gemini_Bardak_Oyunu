@@ -17,7 +17,7 @@
 
 ## 📦 Setup 
 1. `Refer to the circuit diagram`
-2. `Install the 'Arduino IDE' software and open 'gemini_bardak.ino' file`
+2. `Install the 'Arduino IDE' software and open 'gemini_bardak.ino' file`  
 3. `Paste your wifi, api and fingerprint inf.`
 4. `File>Preferences>Additional Boards Manager URLs:(Click the double window button)`
 >Paste this code  
