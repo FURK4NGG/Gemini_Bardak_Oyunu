@@ -1,4 +1,5 @@
 <!-- Proje-Resmi -->
+<!-- Devre semasi (evet,hayir,bilmiyorum butonlarinin hangileri oldugunu da yaz)-->
 
 ## 👀 Gemini_Bardak_Oyunu Overview  
 <h1 align="center">AI based 28 Questions Game</h1>  
