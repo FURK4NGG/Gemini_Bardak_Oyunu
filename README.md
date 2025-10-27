@@ -5,12 +5,17 @@
 
 
 ## 🚀 Features  
-<h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.</h1>  
+<h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.<br><br>•It's powered by Google Gemini<br>•It does not give the same answer<br>•It generates new questions based on the answer we provide to its previous guess<br>It displays sentences that don't fit on the screen by scrolling them with a 'Marquee Effect'</h1>  
 
 
 ## 🔎 Preparation
-1. `Find your wifi's name and password`
-2. `Go to the`[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create your own api key`
+<details>
+<summary>1. Components</summary>
+'1' ESP-8266 0.96 inch oled development board
+'3' Button
+</details>
+2. `Find your wifi's name and password`
+3. `Go to the`[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create your own api key`
 > **Not Required:**Go to the[`Google AI Studio`](https://aistudio.google.com/app/api-keys)>F12>Network>F5>Click on any request>Security>Copy the SHA-1 fingerprint
    
 
