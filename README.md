@@ -40,7 +40,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 11. `Click the 'upload ➡️' button`  
 ✅ **To make sure it has been uploaded successfully, you should see the message 'Done uploading'**
 
-> ⚠️ **Developer Note:** For those who want to try the project with an external display, it might be more practical to add a feature that detects the player's answers based on the gyroscope's tilt (I didn’t integrate it into the project due to I2C conflicts).'  
+> ⚠️ **Developer Note:** For those who want to try the project with an external display, it might be more practical to add a feature that detects the player's answers based on the gyroscope's tilt (I didn’t integrate it into the project due to I2C conflicts).  
 
 
 ## 🎉 Run  
