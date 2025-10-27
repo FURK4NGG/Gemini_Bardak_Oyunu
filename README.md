@@ -11,8 +11,8 @@
 ## 🔎 Preparation
 <details>
 <summary>1. Components</summary>
-'1' ESP-8266 0.96 inch oled development board   
-'3' Button  
+'1' ESP-8266 0.96 inch oled development board<br>
+'3' Button
 </details>
 
 2. `Find your wifi's name and password`
