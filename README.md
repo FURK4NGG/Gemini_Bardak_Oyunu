@@ -11,9 +11,10 @@
 ## 🔎 Preparation
 <details>
 <summary>1. Components</summary>
-'1' ESP-8266 0.96 inch oled development board 
+'1' ESP-8266 0.96 inch oled development board  
 '3' Button  
 </details>
+
 2. `Find your wifi's name and password`
 3. `Go to the`[`Google AI Studio`](https://aistudio.google.com/app/api-keys)`and create your own api key`
 > **Not Required:**Go to the[`Google AI Studio`](https://aistudio.google.com/app/api-keys)>F12>Network>F5>Click on any request>Security>Copy the SHA-1 fingerprint
