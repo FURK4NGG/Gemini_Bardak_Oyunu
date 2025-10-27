@@ -5,7 +5,7 @@
 
 
 ## 🚀 Features  
-<h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.<br><br>•It's powered by Google Gemini<br>•It does not give the same answer<br>•It generates new questions based on the answer we provide to its previous guess<br>It displays sentences that don't fit on the screen by scrolling them with a 'Marquee Effect'</h1>  
+<h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.<br><br>•It's powered by Google Gemini<br>•It does not give the same answer<br>•It generates new questions based on the answer we provide to its previous guess<br>•It displays sentences that don't fit on the screen by scrolling them with a 'Marquee Effect'</h1>  
 
 
 ## 🔎 Preparation
