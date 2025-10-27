@@ -11,7 +11,7 @@
 ## 🔎 Preparation
 <details>
 <summary>1. Components</summary>
-'1' ESP-8266 0.96 inch oled development board  
+'1' ESP-8266 0.96 inch oled development board   
 '3' Button  
 </details>
 
