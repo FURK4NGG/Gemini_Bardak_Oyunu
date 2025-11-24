@@ -5,6 +5,13 @@
 <h1 align="center">AI based 28 Questions Game</h1>  
 
 
+![Image](https://github.com/user-attachments/assets/a209d9cc-86c0-4c72-96bf-d9d024e7eb86)
+![Image](https://github.com/user-attachments/assets/db433405-7d1d-4eee-981d-080eaf1da23b)
+![Image](https://github.com/user-attachments/assets/221de17c-732e-4687-bcff-d70c1eba8f37)
+![Image](https://github.com/user-attachments/assets/0a05a578-7d1e-4d8c-98b6-a0f5e0b777c7)
+![Image](https://github.com/user-attachments/assets/8c01bd59-ee8f-422d-842a-4f1062eb179b)
+
+
 ## 🚀 Features  
 <h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.<br><br>•It's powered by Google Gemini<br>•It does not give the same answer<br>•It generates new questions based on the answer we provide to its previous guess<br>•It displays sentences that don't fit on the screen by scrolling them with a 'Marquee Effect'</h1>  
 
