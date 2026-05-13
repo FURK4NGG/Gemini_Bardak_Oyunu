@@ -1,9 +1,7 @@
 ## 👀 Gemini_Bardak_Oyunu Overview  
 <h1 align="center">AI based 28 Questions Game</h1>  
 
-
 ![Gemini_Bardak_Oyunu Demo Image](https://github.com/FURK4NGG/Gemini_Bardak_Oyunu/blob/main/{}/gemini_bardak-1.webp)
-
 
 ## 🚀 Features  
 <h1 align="center">This is an AI-driven game designed to accurately guess your selection through a process of progressively eliminating options with increasingly specific questions, all based on your responses.<br><br>•It's powered by Google Gemini<br>•It does not give the same answer<br>•It generates new questions based on the answer we provide to its previous guess<br>•It displays sentences that don't fit on the screen by scrolling them with a 'Marquee Effect'</h1>  
