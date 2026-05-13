@@ -2,7 +2,7 @@
 <h1 align="center">AI based 28 Questions Game</h1>  
 
 
-![Image](https://github.com/FURK4NGG/Gemini_Bardak_Oyunu/blob/main/{}/gemini_bardak-1.webp)
+![Gemini_Bardak_Oyunu Demo Image](https://github.com/FURK4NGG/Gemini_Bardak_Oyunu/blob/main/{}/gemini_bardak-1.webp)
 
 
 ## 🚀 Features  
